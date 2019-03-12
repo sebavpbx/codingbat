@@ -1,5 +1,3 @@
-#!/usr/bin/python3.6
-
 '''
   We want to make a row of bricks that is goal inches long.
   We have a number of small bricks (1 inch each) and big bricks (5 inches each).
